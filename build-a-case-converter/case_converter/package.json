@@ -1,0 +1,22 @@
+{
+  "name": "case_converter",
+  "version": "1.0.0",
+  "description": "This package is used to convert strings to a specific case.",
+  "keywords": [
+    "case",
+    "converter",
+    "uppercase",
+    "lowercase"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://infamous-spooky-vampire-q7q6rj455945f9v65.github.dev/"
+  },
+  "license": "MIT",
+  "author": "miguel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
